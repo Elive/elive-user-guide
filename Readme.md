@@ -613,6 +613,7 @@ Jamal       :    x      :   1001 :   1001   :    jamal Ibrahim   ,    1   ,,   :
 
 ### /etc/passwd fields
 
+
     1. **Username field**: This field show the user account name; this user name must be used every time when we log in to the system.
     2. **Password field**: Second field is the Password field, not showing the actual password though. The 'x' in this field show the password is encrypted and saved in the /etc/shadow file.
     3. **UID field**: Every time when a user account is created, it is assigned with a user id or UID (UID for the user 'jamal' is 1001, in this case) and this field specifies the same.
